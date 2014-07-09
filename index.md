@@ -16,8 +16,8 @@ Hans-Meerwein-Straße.
 We will add further details to this page in due time.
 
 ### Organizers
-[Paolo Giarrusso](pgiarrusso@informatik.uni-marburg.de) (University of Marburg)
-[Tillmann Rendel](rendel@informatik.uni-marburg.de) (University of Marburg)
+* [Paolo Giarrusso](pgiarrusso@informatik.uni-marburg.de) (University of Marburg)
+* [Tillmann Rendel](rendel@informatik.uni-marburg.de) (University of Marburg)
 
 ### Credits
-Sebastian Erdweg (TU Darmstadt)
+* Sebastian Erdweg (TU Darmstadt)
