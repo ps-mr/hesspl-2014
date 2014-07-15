@@ -6,8 +6,7 @@ We warmly invite all programming-language researchers in Hesse to the Second
 Hessian Workshop on Programming Languages in Marburg on September 11, 2014.
 
 The goal of this day-long workshop is to bring our community closer together, to
-encourage communication, and to foster collaboration, as done in the [first
-edition](http://erdweg.org/HessPL/index.html).
+encourage communication, and to foster collaboration.
 All participants are invited to present their work in short talks (15 minutes)
 and we will have ample time for discussions.
 
@@ -27,6 +26,9 @@ We encourage all participants to give a talk about their (possibly ongoing)
 work. **Please send a title and an abstract until September 3**.
 
 We will add further details to this page in due time.
+
+### Previous Workshops
+ * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
 
 ### Organizers
 * [Paolo Giarrusso](pgiarrusso@informatik.uni-marburg.de) (University of Marburg)
