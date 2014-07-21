@@ -11,8 +11,8 @@ All participants are invited to present their work in short talks (15 minutes)
 and we will have ample time for discussions.
 
 * When: September 11, 2014
-* Where: Marburg University, Department of Mathematics and Computer Science,
-Hans-Meerwein-Straße.
+* Where: [Marburg University, Department of Mathematics and Computer Science,
+Hans-Meerwein-Straße](http://www.uni-marburg.de/fb12/kontakt_lageplan).
 
 **Please indicate participation until August 25** via email to [Paolo
 Giarrusso](pgiarrusso@informatik.uni-marburg.de). Please include the following
