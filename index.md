@@ -23,9 +23,11 @@ details:
 * will you join the (non-sponsored) workshop dinner
 
 We encourage all participants to give a talk about their (possibly ongoing)
-work. **Please send a title and an abstract until September 3**.
+work. **Please send a title and an abstract until September 3** via email to [Paolo
+Giarrusso](pgiarrusso@informatik.uni-marburg.de).
 
 We will add further details to this page in due time.
+Should you have any questions, please do not hesitate to contact any of the organizers.
 
 ### Previous Workshops
  * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
