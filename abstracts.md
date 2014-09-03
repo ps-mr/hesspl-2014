@@ -2,20 +2,17 @@
 layout: index
 ---
 
-<span class="author">
+{: .author}
 Edlira Kuci
-</span>
 
-<span class="title">
+{: .title}
 Abstract Dependent Classes
-</span>
 
-<div class="abstract">
+{: .abstract}
 Software reuse provides means to combine existing components to
 implement new functionalities. Dependent Classes are a powerful solution that
 combines a lot of desirable features, including dynamic composition,
-feature selection and static type checking.
-
+feature selection and static type checking.  
 However, several research questions are still open. An important
 issue is that many interesting applications of Dependent Classes
 involve the use of abstract classes. However the calculus of Dependent Classes
@@ -26,19 +23,16 @@ by dependent types. We envisage that the existing calculus of
 Dependent Classes can support abstract classes, show the changes that
 are necessary and provide a roadmap for further research in the
 field.
-</div>
 
 --------
 
-<span class="author">
+{: .author}
 Yufei Cai
-</span>
 
-<span class="title">
+{: .title}
 Nominal Functors
-</span>
 
-<div class="abstract">
+{: .abstract}
 we present Nominal Functors, a concise, expressive DSL for traversable
 functors in Scala. Users write the type constructor of the functor,
 the system generates the corresponding `fmap` method. Every
@@ -48,4 +42,13 @@ them. This allows us to find a unifying connection between generic
 programming techniques such as scrap-your-boilerplate,
 almost-compositional-functions and biplate: Each technique essentially
 creates a different traversable functor from a given datatype.
-</div>
+
+<!--
+--------
+
+{: .author}
+
+{: .title}
+
+{: .abstract}
+-->
