@@ -43,6 +43,26 @@ programming techniques such as scrap-your-boilerplate,
 almost-compositional-functions and biplate: Each technique essentially
 creates a different traversable functor from a given datatype.
 
+--------
+
+{: .author}
+Joscha Drechsler
+
+{: .title}
+Distributed REScala: An Update Propagation Algorithm for Distributed Reactive Programming
+
+{: .abstract}
+
+--------
+
+{: .author}
+Sebastian Erdweg
+
+{: .title}
+Capture-Avoiding and Hygienic Program Transformations
+
+{: .abstract}
+
 <!--
 --------
 
