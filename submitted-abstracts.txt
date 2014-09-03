@@ -2,7 +2,7 @@ Author:
 Edlira Kuci
 
 Title:
-Abstract dependent classes.
+Abstract Dependent Classes
 
 Abstract:
 Software reuse provides means to combine existing components to
@@ -26,7 +26,7 @@ Author:
 Yufei Cai
 
 Title:
-nominal Functors
+Nominal Functors
 
 Abstract:
 we present Nominal Functors, a concise, expressive DSL for traversable
