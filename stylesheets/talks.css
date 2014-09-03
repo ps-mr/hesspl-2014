@@ -1,0 +1,16 @@
+.author:before {
+    content: "Author: ";
+    font-weight: bold;
+}
+.author {
+}
+
+.title:before {
+    content: "Title: ";
+    font-weight: bold;
+}
+
+.abstract:before {
+    content: "Abstract: ";
+    font-weight: bold;
+}
