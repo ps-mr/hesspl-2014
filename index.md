@@ -29,6 +29,15 @@ Giarrusso](pgiarrusso@informatik.uni-marburg.de).
 We will add further details to this page in due time.
 Should you have any questions, please do not hesitate to contact any of the organizers.
 
+### News
+
+* We currently plan to begin the workshop around 11am, let us know if
+that is any problem.
+* We will also have a session for *lightning talks* (5 minutes). Questions will be
+deferred to the subsequent break. Registration for lightning talks will be on
+the same day.
+* The current list of abstracts is available [here](abstracts.html).
+
 ### Previous Workshops
  * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
 
