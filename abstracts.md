@@ -63,6 +63,21 @@ Capture-Avoiding and Hygienic Program Transformations
 
 {: .abstract}
 
+--------
+
+{: .author}
+Oliver Bracevac
+
+{: .title}
+The Cloud Calculus
+
+{: .abstract}
+Over the last few years, cloud computing has emerged as the reference model for on-demand, fault-tolerant and scalable computations.
+Despite the popularity of this model, little research has been devoted to the investigation of theoretical foundations.
+We propose to fill this gap with a calculus that captures the essential aspects of cloud computing at the proper level of abstraction.
+Our minimal cloud calculus is suitable for reasoning about cloud applications, can be easily extended to capture more semantic details
+and is accompanied by a simple yet elegant metatheory.
+
 <!--
 --------
 
