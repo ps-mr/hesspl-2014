@@ -14,7 +14,7 @@ and we will have ample time for discussions.
 * Where: [Marburg University, Department of Mathematics and Computer Science,
 Hans-Meerwein-Straße](http://www.uni-marburg.de/fb12/kontakt_lageplan).
 
-**Please indicate participation until August 25** via email to [Paolo
+**Please indicate participation** via email to [Paolo
 Giarrusso](pgiarrusso@informatik.uni-marburg.de). Please include the following
 details:
 
@@ -23,7 +23,7 @@ details:
 * will you join the (non-sponsored) workshop dinner
 
 We encourage all participants to give a talk about their (possibly ongoing)
-work. **Please send a title and an abstract until September 3** via email to [Paolo
+work. **Please send a title and an abstract as soon as possible** via email to [Paolo
 Giarrusso](pgiarrusso@informatik.uni-marburg.de).
 
 We will add further details to this page in due time.
@@ -37,6 +37,7 @@ that is any problem.
 deferred to the subsequent break. Registration for lightning talks will be on
 the same day.
 * The current list of abstracts is available [here](abstracts.html).
+* We are still considering abstract submissions, as long as timeslots are available.
 
 ### Previous Workshops
  * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
