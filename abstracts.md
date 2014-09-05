@@ -86,16 +86,6 @@ We propose to fill this gap with a calculus that captures the essential aspects 
 Our minimal cloud calculus is suitable for reasoning about cloud applications, can be easily extended to capture more semantic details
 and is accompanied by a simple yet elegant metatheory.
 
-<!--
---------
-
-{: .author}
-
-{: .title}
-
-{: .abstract}
--->
-
 --------
 
 {: .author}
@@ -117,3 +107,13 @@ first-order formula representation to facilitate the use of automated
 theorem provers and an efficient type checker. Both results aim to
 make the development cycle for type systems faster and to narrow the
 gap between theory and practice.
+
+<!--
+--------
+
+{: .author}
+
+{: .title}
+
+{: .abstract}
+-->
