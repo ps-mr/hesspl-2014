@@ -108,6 +108,25 @@ theorem provers and an efficient type checker. Both results aim to
 make the development cycle for type systems faster and to narrow the
 gap between theory and practice.
 
+--------
+
+{: .author}
+Jonathan Brachthäuser
+
+{: .title}
+Typesafe Extensible Functional Objects
+
+{: .abstract}
+Statically typed, class based languages usually do not allow adding new
+interface implementations after an object has been created. A famous
+solution to this problem is the decorator pattern. However, multiple
+decorators that add new methods cannot be composed and also late binding is
+not supported by default. To solve this problem, we encode objects as extensible
+terminal coalgebras: this allows both typesafe static composition as well as
+dynamic extension of already constructed objects. Additional extensions like
+support for private state, super-references and selective open recursion
+can easily be implemented on top of the core encoding.
+
 <!--
 --------
 
