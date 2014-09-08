@@ -127,6 +127,34 @@ dynamic extension of already constructed objects. Additional extensions like
 support for private state, super-references and selective open recursion
 can easily be implemented on top of the core encoding.
 
+--------
+
+{: .author}
+Mirko Köhler
+
+{: .title}
+i3QL: Language-Integrated Live Data Views
+
+{: .abstract}
+An incremental computation updates its result based on a change to its input, which is often an order of magnitude faster than a recomputation from scratch. In particular, incrementalization can make expensive computations feasible for settings that require short feedback cycles, such as interactive systems, IDEs, or (soft) real-time systems.  
+We present i3QL, a general-purpose programming language for specifying incremental computations. i3QL provides a declarative SQL-like syntax and is based on incremental versions of operators from relational algebra, enriched with support for general recursion. We integrated i3QL into Scala as a library, which enables programmers to use regular Scala code for non-incremental subcomputations of an i3QL query and to easily integrate incremental computations into larger software projects. To improve performance, i3QL optimizes user-defined queries by applying algebraic laws and partial evaluation. We describe the design and implementation of i3QL and its optimizations, demonstrate its applicability, and evaluate its performance.
+
+--------
+
+{: .author}
+Rita Loogen
+
+{: .title}
+Skeleton Composition in Eden
+
+{: .abstract}
+Eden is a parallel functional programming language which
+extends Haskell with constructs for the definition and instantiation of
+parallel processes. Processes evaluate function applications remotely in
+parallel. The programmer has control over process granularity, data distribution, communication topology, and evaluation site, but need not
+manage synchronisation and data exchange between processes. The latter
+are performed by the parallel runtime system through implicit communication channels, transparent to the programmer. Common and sophisticated parallel communication patterns and topologies, so-called algorithmic skeletons, are provided as higher-order functions in a user-extensible skeleton library written in Eden. In this talk we will take a look at the composability of said skeletons.
+
 <!--
 --------
 
