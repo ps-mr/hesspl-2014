@@ -1,5 +1,10 @@
+.time:before {
+    content: "Time: ";
+    font-weight: bold;
+}
+
 .author:before {
-    content: "Author: ";
+    content: "Presenter: ";
     font-weight: bold;
 }
 
@@ -12,6 +17,7 @@
     content: "Abstract: ";
     font-weight: bold;
 }
+
 
 hr {
   border: 0;
