@@ -10,9 +10,13 @@ encourage communication, and to foster collaboration.
 All participants are invited to present their work in short talks (15 minutes)
 and we will have ample time for discussions.
 
-* When: September 11, 2014
+* When: September 11, 2014, starting 11am.
 * Where: [Marburg University, Department of Mathematics and Computer Science,
-Hans-Meerwein-Straße](http://www.uni-marburg.de/fb12/kontakt_lageplan).
+Mehrzweckgebäude, Hans-Meerwein-Straße](http://www.uni-marburg.de/fb12/kontakt_lageplan).
+    - To reach it, see
+  [these instructions (in German)](http://www.uni-marburg.de/fb12/kontakt_lageplan/zufahrt).
+	- Or [this Google map](https://www.google.com/maps/ms?msid=204752222428341055162.000502b77a525cfddd387&msa=0).
+* Room: Seminarraum XV (that is, room 04C37: Tower C, 4th floor, room 37).
 
 **Please indicate participation** via email to [Paolo
 Giarrusso](pgiarrusso@informatik.uni-marburg.de). Please include the following
@@ -26,18 +30,15 @@ We encourage all participants to give a talk about their (possibly ongoing)
 work. **Please send a title and an abstract as soon as possible** via email to [Paolo
 Giarrusso](pgiarrusso@informatik.uni-marburg.de).
 
-We will add further details to this page in due time.
 Should you have any questions, please do not hesitate to contact any of the organizers.
 
 ### News
 
-* We currently plan to begin the workshop around 11am, let us know if
-that is any problem.
+* You can arrive tomorrow starting at 10.30am; coffee will be available. Talks will start at 11am.
 * We will also have a session for *lightning talks* (5 minutes). Questions will be
 deferred to the subsequent break. Registration for lightning talks will be on
 the same day.
-* The current list of abstracts is available [here](abstracts.html).
-* We are still considering abstract submissions, as long as timeslots are available.
+* The list of abstracts is available [here](abstracts.html). The program will be available later today.
 
 ### Previous Workshops
  * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
