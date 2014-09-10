@@ -38,7 +38,7 @@ Should you have any questions, please do not hesitate to contact any of the orga
 * We will also have a session for *lightning talks* (5 minutes). Questions will be
 deferred to the subsequent break. Registration for lightning talks will be on
 the same day.
-* The list of abstracts is available [here](abstracts.html). The program will be available later today.
+* The **[workshop program](abstracts.html)** is now available.
 
 ### Previous Workshops
  * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
