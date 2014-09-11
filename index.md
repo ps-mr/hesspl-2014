@@ -1,6 +1,15 @@
 ---
 layout: index
 ---
+
+### News
+
+* You can arrive tomorrow starting at 10.30am; coffee will be available. Talks will start at 11am.
+* We will also have a session for *lightning talks* (5 minutes). Questions will be
+deferred to the subsequent break. Registration for lightning talks will be on
+the same day.
+* The **[workshop program](abstracts.html)** is now available.
+
 ### Call for participation
 We warmly invite all programming-language researchers in Hesse to the Second
 Hessian Workshop on Programming Languages in Marburg on September 11, 2014.
@@ -31,14 +40,6 @@ work. **Please send a title and an abstract as soon as possible** via email to [
 Giarrusso](pgiarrusso@informatik.uni-marburg.de).
 
 Should you have any questions, please do not hesitate to contact any of the organizers.
-
-### News
-
-* You can arrive tomorrow starting at 10.30am; coffee will be available. Talks will start at 11am.
-* We will also have a session for *lightning talks* (5 minutes). Questions will be
-deferred to the subsequent break. Registration for lightning talks will be on
-the same day.
-* The **[workshop program](abstracts.html)** is now available.
 
 ### Previous Workshops
  * [First Hessian Workshop on Programming Languages](http://erdweg.org/HessPL/index.html) (June 28, 2013, TU Darmstadt)
