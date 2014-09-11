@@ -9,6 +9,7 @@ layout: index
 deferred to the subsequent break. Registration for lightning talks will be on
 the same day.
 * The **[workshop program](abstracts.html)** is now available.
+* We plan to collect and publish the slides of all interested presenters.
 
 ### Call for participation
 We warmly invite all programming-language researchers in Hesse to the Second
